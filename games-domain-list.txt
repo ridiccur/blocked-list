@@ -1,10 +1,8 @@
 1.ra.roblox.com
 15.supercell.com
 1pwscim.supercell.com
-208_185_116_57.ra.roblox.com
 58caebff-bugsentrycore-riv-aa3a-751432187.us-east-1.elb.amazonaws.com
 58nkfs2xt4b5z9mcwcc5.supercell.com
-64_124_125_40.sm.roblox.com
 a1819.g1.akamai.net
 a743.g.akamai.net
 a793.dscd.akamai.net
